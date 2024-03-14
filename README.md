@@ -1,15 +1,17 @@
 <div align="center">
-<h1 align="center">Hola, soy Jesxen</a> 👋</h1>
+<h1 align="center">Hola, soy <a href="https://github.com/Jesxen">Jesxen</a> 👋</h1>
 </div>
-<img src="https://imgur.com/FfqU2Oy">
+<div align="center">
+<img  src="https://imgur.com/ETOMyKU.png">
+</div>
 
 ## Sobre mi
 
 - 👨‍💻  Intento de programador👨‍💻 
 - 🌐 Web developer🌐
-- 🎮Friki de los videojuegos🎮
-- 😺Amante del Anime😺
 - ☕Fan de JAVA ☕
+- 😺Amante del Anime😺
+- 🎮Friki de los videojuegos🎮
 
 <br>
 
