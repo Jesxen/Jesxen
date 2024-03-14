@@ -1,21 +1,20 @@
 <div align="center">
-<h1 align="center">Hola, soy <a href="https://github.com/Jesxen">Jesxen</a> 👋</h1>
+<h1 align="center">Hi there, I'm <a href="https://github.com/Jesxen">Jesxen</a> 👋</h1>
 </div>
 <div align="center">
 <img  src="https://imgur.com/ETOMyKU.png">
 </div>
 
-## Sobre mi
+## About me
 
-- 👨‍💻  Intento de programador👨‍💻 
+- 👨‍💻 Aspiring programmer👨‍💻 
 - 🌐 Web developer🌐
-- ☕Fan de JAVA ☕
-- 😺Amante del Anime😺
-- 🎮Friki de los videojuegos🎮
+- ☕JAVA enthusiast ☕
+- 🎮Game geek🎮
 
 <br>
 
-## Proyectos 
+## Projects
 <br>
 
 ### ⚙️ &nbsp;GitHub Analytics
