@@ -9,7 +9,7 @@
 
 - 👨‍💻 Aspiring programmer👨‍💻 
 - 🌐 Web developer🌐
-- ☕JAVA enthusiast ☕
+- ☕JAVASCRIPT enthusiast ☕
 - 🎮Game geek🎮
 
 <br>
