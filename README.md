@@ -65,5 +65,5 @@ I enjoy building web projects, learning new tools, and improving my skills every
 ## 📫 Contact Me
 
 - GitHub: [Jesxen](https://github.com/Jesxen)  
-- LinkedIn: [Jesús Ochoa](https://linkedin.com/in/jesus-ochoa-280464350)  
+- LinkedIn: [Jesús Ochoa]([https://linkedin.com/in/jesus-ochoa-280464350](https://www.linkedin.com/in/jes%C3%BAs-ochoa-280464350/))  
 
