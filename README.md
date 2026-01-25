@@ -15,7 +15,7 @@ I enjoy building web projects, learning new tools, and improving my skills every
 
 ---
 
-## 🌐 What I'm Learning
+##  What I'm Learning
 
 - Angular & TypeScript
 - Nodejs
@@ -29,7 +29,7 @@ I enjoy building web projects, learning new tools, and improving my skills every
 
 ---
 
-## 🎯 My Goals
+##  My Goals
 
 - Build real-world web applications  
 - Apply best coding practices  
@@ -39,7 +39,7 @@ I enjoy building web projects, learning new tools, and improving my skills every
 
 ---
 
-## 🧠 What I've Learned & Notes for Future Me
+##  What I've Learned & Notes for Future Me
 
 - Structuring Angular projects efficiently  
 - Connecting frontend and backend  
