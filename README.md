@@ -19,7 +19,8 @@ I enjoy building web projects, learning new tools, and improving my skills every
 
 - Angular & TypeScript
 - Nodejs
-- JavaScript, HTML & CSS  
+- JavaScript, HTML & CSS
+- TailWindCSS  
 - PHP & MySQL  
 - Git & GitHub  
 - Docker  
