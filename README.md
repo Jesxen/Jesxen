@@ -8,7 +8,7 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 I'm a student of Web Application Development (DAW), passionate about programming and new technologies.  
 I enjoy building web projects, learning new tools, and improving my skills every day.
