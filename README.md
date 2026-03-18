@@ -18,7 +18,6 @@ I enjoy building web projects, learning new tools, and improving my skills every
 ##  What I'm Learning
 
 - Angular & TypeScript
-- Nodejs
 - JavaScript, HTML & CSS
 - TailWindCSS  
 - PHP & MySQL  
