@@ -8,48 +8,38 @@
 
 ---
 
-##  About Me
+## About Me
 
-I'm a student of Web Application Development (DAW), passionate about programming and new technologies.  
-I enjoy building web projects, learning new tools, and improving my skills every day.
+Full Stack Developer based in Tenerife, Spain. I'm currently building the internal ERP from scratch: Laravel 12 backend, Angular frontend, and everything in between.
 
----
-
-##  What I'm Learning
-
-- Angular & TypeScript
-- JavaScript, HTML & CSS
-- TailWindCSS  
-- PHP & MySQL  
-- Git & GitHub  
-- Docker  
-- UI/UX design with Figma
-- Postman  
+I hold a degree in Web Application Development (CFGS DAW, 2026). I pick up new tools fast and work well on my own.
 
 ---
 
-##  My Goals
+## My Stack
 
-- Build real-world web applications  
-- Apply best coding practices  
-- Deploy projects online  
-- Continue learning backend and frontend development  
-- Improve my personal portfolio  
+**Backend**
+- Laravel 12, PHP, APIs REST, Laravel Sanctum, MySQL, query optimization
 
----
+**Frontend**
+- Angular, TypeScript, JavaScript ES6+, TailwindCSS, DaisyUI, HTML5
 
-##  What I've Learned & Notes for Future Me
+**DevOps & Quality**
+- Git, GitHub, GitHub Actions (CI/CD), Docker, testing, Jira, Scrum
 
-- Structuring Angular projects efficiently  
-- Connecting frontend and backend  
-- Using Git for version control  
-- Troubleshooting and debugging  
-- The importance of writing clean, maintainable code  
-
-
+**AI**
+- LLM integration in development workflows, prompt engineering
 
 ---
 
+## Projects
+
+- **[Portfolio](https://github.com/Jesxen/portfolio)** — Personal portfolio built with Angular and Tailwind CSS. [Live demo](https://jesxen-dev.netlify.app/)
+- **[Majesty](https://github.com/Jesxen/Majesty)** — Full-stack hotel and reviews app: Angular frontend, PHP + MySQL backend, Docker.
+- **[Task Manager](https://github.com/Jesxen/task-manager)** — Task manager built with Angular, PHP and MySQL.
+- **[Restaurant Reservations](https://github.com/Jesxen/restaurant-reservations)** — Reservation management app focused on UX and clean design.
+
+---
 
 ### GitHub Analytics
 
@@ -61,8 +51,8 @@ I enjoy building web projects, learning new tools, and improving my skills every
 
 ---
 
-## 📫 Contact Me
+## Contact
 
-- GitHub: [Jesxen](https://github.com/Jesxen)  
+- Portfolio: [jesxen-dev.netlify.app](https://jesxen-dev.netlify.app/)
 - LinkedIn: [Jesús Ochoa](https://www.linkedin.com/in/jes%C3%BAs-ochoa-280464350/)
-
+- Email: jes8aca@gmail.com
